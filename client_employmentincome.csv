@@ -1,0 +1,6 @@
+employmentincome_id,email_id,employer,occupation,projectRetirementIncome,annual_income,number_pay_periods,take_home_income_per_period,value,currency,created_at,updated_at
+32,sonidhruvit7000@gmail.com,aa,jjjhjhjh,0.5,100000,12,6523.333333333334,8333.333333333334,CAD,"2023-05-31 02:18:04","2023-05-31 10:16:21"
+33,brahmbhattparthj@hotmail.com,Param,CEO,NULL,100000,12,6523.333333333334,8333.333333333334,CAD,"2023-05-31 02:53:19","2023-05-31 02:53:19"
+34,sonidhruvit1000@gmail.com,aa,tttt,NULL,454545,12,29651.485500000003,37878.75,,"2023-06-02 07:52:39","2023-06-02 07:52:39"
+36,joemacek@gmail.com,ia,pm,NULL,100000,12,6523.333333333334,8333.333333333334,CAD,"2023-06-18 04:57:23","2023-06-18 04:57:23"
+37,joemacek@hotmail.com,IAPW,"Anti Business Department",NULL,100000,24,3261.666666666667,4166.666666666667,CAD,"2023-06-19 05:09:01","2023-06-19 05:09:01"

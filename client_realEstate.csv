@@ -1,0 +1,9 @@
+realestate_id,email_id,realestate_type,realestate_details,realestate_value,selected_currency,outstanding_mortgage,interestRate,amortization_left,amortization_period,realinflationRate,interest_rate,mortgage_type,property_tax,property_insurance,principal_amount,address,country,city,postal_code,created_at,updated_at
+35,sonidhruvit7000@gmail.com,"Investment Property",jhj,400000,CAD,34000,6.75,25,1,1.03,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-17 06:08:14","2023-06-18 08:09:38"
+38,sonidhruvit7000@gmail.com,"Primary Residence",rere,100000,CAD,10000,5,25,25,1.06,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-18 07:59:08","2023-06-18 07:59:08"
+40,joemacek@hotmail.com,"Primary Residence","238 Portage Avenue",650000,CAD,250000,6,20,20,1.04,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-19 05:10:48","2023-06-19 05:10:48"
+41,brahmbhattparthj@hotmail.com,"Primary Residence",ff,500000,CAD,300000,5.75,20,25,1.05,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-19 06:39:21","2023-06-19 06:39:21"
+42,brahmbhattparthj@hotmail.com,"Secondary Residence",et,300000,CAD,100000,4,24,25,1.06,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-19 06:40:09","2023-06-19 06:40:09"
+43,joemacek@gmail.com,"Primary Residence","8 Whidbey",1000000,CAD,800000,6,25,25,1.04,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-19 14:24:09","2023-06-19 14:24:09"
+44,joemacek@gmail.com,"Secondary Residence","500 Portage Avenue",400000,CAD,320000,6,25,25,1.04,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-06-19 14:48:16","2023-06-19 14:48:16"
+45,sonidhruvit7000@gmail.com,"Secondary Residence",fef,100000,CAD,1000,5,25,25,1.05,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2023-07-03 09:20:49","2023-07-03 09:20:49"

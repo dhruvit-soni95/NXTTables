@@ -1,0 +1,5 @@
+expens_id,email_id,expens_type,expens_detail,expens_value,expens_currency,created_at,updated_at
+4,joemacek@gmail.com,"Life Insurance",Wawanesa,200,CAD,"2023-05-24 03:19:31","2023-06-07 20:18:08"
+5,brahmbhattparthj@hotmail.com,Internet,kkk,100,CAD,"2023-05-25 07:39:36","2023-05-25 07:39:36"
+6,sonidhruvit7000@gmail.com,Internet,aaa,1000,CAD,"2023-05-26 01:55:45","2023-05-26 01:55:45"
+7,sonidhruvit7000@gmail.com,"Life Insurance","max four",1200,USD,"2023-05-26 02:23:28","2023-05-26 09:08:34"

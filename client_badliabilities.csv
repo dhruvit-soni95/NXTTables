@@ -1,0 +1,3 @@
+badliabilities_id,email_id,badDebt,institution,interest,badliabilities_value,badliabilities_currency,created_at,updated_at
+7,brahmbhattparthj@hotmail.com,"Credit Card",Bmo,19.99,10000,CAD,"2023-05-23 03:08:31","2023-05-23 03:08:31"
+8,sonidhruvit7000@gmail.com,HELOC,abc,4,1000,CAD,"2023-05-30 07:19:51","2023-05-30 07:19:51"

@@ -1,0 +1,13 @@
+investment_id,email_id,investment_account_type,investment_institution,investment_value,investment_rateofreturn,investment_selected_currency,date,month,created_at,updated_at
+77,brahmbhattparthj@aol.com,TSFA,Wealthsimple,2700,NULL,CAD,"16 May 2023",NULL,"2023-05-16 22:01:49","2023-05-16 22:01:49"
+93,sonidhruvit7000@gmail.com,PRIF,"Edward Jones",12500,6.4,CAD,"01 Jun 2023",NULL,"2023-06-01 03:54:17","2023-06-01 03:54:32"
+94,joemacek@gmail.com,RRSP,"IA Financial Group",500000,8,CAD,"19 Jun 2023",NULL,"2023-06-18 05:00:02","2023-06-19 19:39:51"
+95,sonidhruvit7000@gmail.com,LRSP,"BMO Bank",20000,5,CAD,"18 Jun 2023",NULL,"2023-06-18 07:21:36","2023-06-18 07:21:36"
+96,sonidhruvit7000@gmail.com,RRSP(Spousal),CanFin,25000,4,CAD,"18 Jun 2023",NULL,"2023-06-18 07:57:35","2023-06-18 07:57:35"
+97,joemacek@hotmail.com,RRSP,"BMO Nesbitt Burns",500000,6,CAD,"19 Jun 2023",NULL,"2023-06-19 05:06:34","2023-06-19 05:06:34"
+98,joemacek@hotmail.com,TSFA,"BMO Bank",80000,4,CAD,"19 Jun 2023",NULL,"2023-06-19 05:06:56","2023-06-19 05:06:56"
+99,joemacek@hotmail.com,Margin,Assante,1000000,7,CAD,"19 Jun 2023",NULL,"2023-06-19 05:07:29","2023-06-19 05:07:29"
+100,brahmbhattparthj@hotmail.com,RRSP,"BMO Bank",100000,9,CAD,"19 Jun 2023",NULL,"2023-06-19 06:42:49","2023-06-19 06:42:49"
+101,brahmbhattparthj@hotmail.com,RIF,"BMO Nesbitt Burns",300000,2,CAD,"19 Jun 2023",NULL,"2023-06-19 06:43:24","2023-06-19 06:43:24"
+102,joemacek@gmail.com,Cash,Primerica,150000,7,CAD,"19 Jun 2023",NULL,"2023-06-19 19:40:16","2023-06-19 19:40:16"
+103,brahmbhattparthj@hotmail.com,RDSP,CanFin,500000,9,CAD,"14 Aug 2023",NULL,"2023-08-14 20:17:20","2023-08-14 20:17:20"

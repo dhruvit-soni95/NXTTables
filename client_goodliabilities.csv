@@ -1,0 +1,4 @@
+liabilities_id,email_id,goodDebt,liabilities_detail,liabilities_value,liabilities_currency,created_at,updated_at
+9,sonidhruvit7000@gmail.com,"Student Loan","Liabilities Few Details",1000,CAD,"2023-05-17 01:48:19","2023-05-17 01:48:19"
+10,sonidhruvit7000@gmail.com,Mortgage,rtrtrrrt,300,CAD,"2023-05-17 02:54:07","2023-05-17 02:54:07"
+11,brahmbhattparthj@hotmail.com,Mortgage,primary,300000,CAD,"2023-05-23 03:08:08","2023-05-23 03:08:08"
